@@ -1,0 +1,19 @@
+body{
+    background-color: #312f2f;
+}
+
+a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: #F8F4F4;
+    text-align: center;
+    padding: 2px 5px;
+    text-decoration: none;
+    font-size: 20pt;
+  }
+  
+a:hover {
+    color: #D1674A;
+  }
